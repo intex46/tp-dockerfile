@@ -1,5 +1,5 @@
 # tp-dockerfile
-- Créez une image docker "factiorielle" qui permets de renvoyer le factorielle d'un nombre n en entrée en lançant le script app_1.py, Vous devez :
+- Créez une image docker "factiorielle" qui permets de renvoyer le factorielle d'un nombre n en entrée en lançant le script app_1.py, vous devez :
     - Définir votre repertoire de travail "factorielle"
 	- Copier votre repertoire de travail dans le repertoire défini
 	- Exposer le port 80
