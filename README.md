@@ -7,7 +7,7 @@
 		
 - Créez une image docker "hello-flask" qui permet d'afficher la valeur de la variable d'environnement NOM en lançant le script app_2.py, vous devez:
 	- Définir votre repertoire de travail "app"
-	- Copier votre repertoire de travai dans le répertoire défini
+	- Copier votre repertoire de travail dans le répertoire défini
 	- Installer les dépendances necessaire ( installer le requirements.txt ) pour lancer le script app_2.py 
 	- Déclarer votre variable d'environnement NOM qui prendra comme valeur votre prénom
 	- Exposer le port 9999
