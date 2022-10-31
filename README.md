@@ -13,7 +13,4 @@
 	- Exposer le port 9999
 	- Lancer le script exo2/app_2.py au démarrage du conteneur
 		
-- Créez une image docker "list-directory" qui permet de lister le contenu de votre repertoire courant en 2 méthodes :
-	- En lançant le script exo3/app_3.py au démarrage du conteneur
-	- Dans un 1er temps mettre à jour les independances, ensuite executer la commande "ls" au démarrage du conteneur
-	- Pour les 2 méthodes, vous devez embarquer seulement le répertoire exo3 (2 manières possibles), votre commande devra afficher le contenu du repertoire tp-dockerfile
+- Embarquez le dossier exo3 dans l'image docker en 2 méthodes 
